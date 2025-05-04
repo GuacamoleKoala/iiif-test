@@ -1,54 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Universal Viewer</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="https://universalviewer.io/examples/uv/lib/uv-3.1.1/uv.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Universal Viewer Test</title>
+    <link rel="stylesheet" href="https://universalviewer.io/examples/uv/lib/uv-3.1.1/uv.css">
 </head>
 <body>
 
+    <!-- Viewer container -->
     <div id="uv" style="width: 100%; height: 600px;"></div>
 
+    <!-- Universal Viewer Script -->
     <script src="https://universalviewer.io/examples/uv/lib/uv-3.1.1/uv.js"></script>
 
-    <script type="text/javascript">
-        console.log("Initializing UV Viewer...");
+    <script>
+        // Initialize the Universal Viewer
         var uv = UV.init('uv', {
-            // Optional: Additional configuration
+            // You can leave this empty for now
         });
-        console.log("UV Viewer Initialized.");
 
-        // Inline Manifest
-        var inlineManifest = {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "id": "https://example.org/iiif/manifest",
-            "type": "Manifest",
-            "label": { "en": ["Test Manifest"] },
-            "sequences": [{
-                "id": "https://example.org/iiif/sequence/normal",
-                "type": "Sequence",
-                "label": { "en": ["Default Sequence"] },
-                "canvases": [{
-                    "id": "https://example.org/iiif/canvas/1",
-                    "type": "Canvas",
-                    "label": { "en": ["Canvas 1"] },
-                    "images": [{
-                        "id": "https://example.org/iiif/image/1/full/1000,/0/default.jpg",
-                        "type": "ImageAnnotation",
-                        "motivation": "painting",
-                        "resource": {
-                            "id": "https://example.org/iiif/image/1/full/1000,/0/default.jpg",
-                            "type": "Image",
-                            "format": "image/jpeg"
-                        },
-                        "on": "https://example.org/iiif/canvas/1"
-                    }]
-                }]
-            }]
-        };
-
-        uv.load(inlineManifest);
+        // Load the manifest URL directly
+        uv.load('https://iiif.europeana.eu/presentation/90402/RP_T_2015_46_15/manifest?wskey=reeditaccif');
     </script>
 
 </body>
