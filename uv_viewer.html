@@ -14,27 +14,32 @@
 <body>
     <h1>Europeana IIIF Manifest in Universal Viewer</h1>
 
-    <div id="universalViewerContainer" style="height: 600px;"></div>
+    <!-- Container for the Universal Viewer -->
+    <div id="universalViewerContainer" style="height: 600px; border: 1px solid #ccc;"></div>
 
     <script>
         // The IIIF manifest URL from Europeana
         var manifestUrl = "https://iiif.europeana.eu/presentation/90402/SK_A_3355/manifest?wskey=reeditaccif"; // Replace with the actual manifest URL from Europeana
 
-        // Initialize the Universal Viewer
-        var uv = new UV({
-            id: 'universalViewerContainer', // The ID of the div container where the viewer will be embedded
-            manifest: manifestUrl,          // The URL of the IIIF manifest
-            config: {
-                // Optional configuration options for the viewer
-                language: 'en',
-                theme: 'light',  // You can switch between 'light' or 'dark' themes
-                showManifests: true,  // Optionally show a list of available manifests
-                showAnnotations: true, // Optionally show annotations
-            }
-        });
+        // Ensure that the Universal Viewer script is loaded and available
+        window.onload = function() {
+            if (typeof UV !== "undefined") {
+                // Initialize the Universal Viewer
+                var uv = new UV({
+                    id: 'universalViewerContainer', // The ID of the div container where the viewer will be embedded
+                    manifest: manifestUrl,          // The URL of the IIIF manifest
+                    config: {
+                        language: 'en',
+                        theme: 'light',  // You can switch between 'light' or 'dark' themes
+                    }
+                });
 
-        // Load the Universal Viewer
-        uv.load();
+                // Load the Universal Viewer
+                uv.load();
+            } else {
+                console.error("Universal Viewer failed to load.");
+            }
+        };
     </script>
 </body>
 </html>
