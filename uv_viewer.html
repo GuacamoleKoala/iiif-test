@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Universal Viewer</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://universalviewer.io/examples/uv/lib/uv-3.1.1/uv.css">
+</head>
+<body>
+
+    <div id="uv" style="width: 100%; height: 600px; background-color: #000;"></div>
+
+    <script src="https://universalviewer.io/examples/uv/lib/uv-3.1.1/uv.js"></script>
+
+    <script type="text/javascript">
+        // Configuration for the viewer
+        // The 'uv' ID must match the div ID above
+        var uv = UV.init('uv', {
+            // You can add other configuration options here if needed
+            // See UV documentation for full options: https://universalviewer.io/docs/
+        });
+
+        // --- IMPORTANT: Load your manifest or collection ---
+        // Replace 'YOUR_MANIFEST_OR_COLLECTION_URL_HERE' with the actual URL
+        // If you provide a Collection URL, UV will show a list of manifests.
+        // If you provide a Manifest URL, UV will display that specific item.
+        uv.load('http://localhost:8000/Manifests2.json');
+
+    </script>
+
+</body>
+</html>
