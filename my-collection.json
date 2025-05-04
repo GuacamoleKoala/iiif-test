@@ -8,1217 +8,1621 @@
     ]
   },
   "items": [
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1910_1783A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1910_1783/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/NG_NM_13202/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/NG_1991_8_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/NG_1980_27_H_1509/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_VBR_462_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17420_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6833_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6833_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6833_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6833_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6580/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6574/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6573/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6568_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6567/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6561_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/SK_A_3355/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/SK_A_1563/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_2015_46_15/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_2015_41_401/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_2015_32_82/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_1998_70_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_1998_61_63_V_/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_1994_23_9_R_/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_1983_483/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_1976_101_5/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_1969_342_R_/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_1963_21/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_1955_229_35_V_/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_1950_355/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_T_1897_A_3320_37_R_/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_85_021A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_67_425/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_52_394/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_47_105/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_203_110/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_203_109/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_203_108/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_2014_64_15/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_2013_9_11/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_2013_9_12/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_2000_211/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1997_24/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1994_31_80/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1994_31_50/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1991_566/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1991_480/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1964_609/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1964_610/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1964_3882/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1963_620/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1907_4779/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1890_A_15890/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_P_1889_A_14363/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_F_F00835_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/RP_F_00_5412_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/NG_1981_12_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/NG_1979_12/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/HA_0012305/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/HA_0010698/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_I_Z_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_I_Z_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_I_Z_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_6991/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_6570/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_5888_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_5783_91_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_5783_73_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_5783_72_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_5783_23_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_3985/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2692_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2632_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2632_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2632_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_D_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_D/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_B_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_B_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2620_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2597_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2597_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2597/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2596/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2595_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2595/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2595_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2594_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2566_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_2566_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_14249/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_14238_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_14238_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_14192/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_14181/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_14080_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_14080/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_14080_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_14048/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13929_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13929/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13929_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13862/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13320_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13320_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13200_B_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13200_B_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13200_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13203/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13200_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_13200_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_12556/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_12470_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_12470_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_12470/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_12400_332/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_12400_265/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_12400_211/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_12236/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_11860_119_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_11746/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_319/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_158_D/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_158/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_142/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_142_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_123/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_10971_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_10888/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_NM_10321_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_KOG_318_B_1_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_KOG_318_B_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_KOG_318_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_KOG_1715/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_BR_321/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_BR_314/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_BR_312/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_BR_311_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_2007_8_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_2007_22/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_2003_1_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_2003_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1999_86_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1991_34_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1991_34/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1985_12_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1985_12_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1985_12/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1984_40_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1984_40/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1984_40_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_265_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_257_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_257_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_257_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_253_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_253_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_253_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_223_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_223_B_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_223_B_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_223/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_223_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_201_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_201_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_201_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_198_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_198_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_198_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_196_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_196_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_196_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_174_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_174_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_174_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_161_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1983_10/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1982_58_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1982_64_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1982_58_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1982_58/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1982_3/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1981_5/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1978_3_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_37/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_8/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_9/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_6/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_7/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_5/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_4/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_12/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_3/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_11/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_10/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_9/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_7/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_8/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_6/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_5/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_4/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_3/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_12/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_11/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_10/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_261/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_245_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_245_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_245_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_240/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_240_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_20_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1977_20/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1975_73/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1975_30/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1975_124_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1975_104_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1975_104_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1975_104/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1974_80_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1974_6/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1972_81_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1972_132_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1970_34/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1970_33/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1969_50/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1969_184_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1969_108_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1968_61/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1968_246_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1968_246_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1968_246_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1968_246_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1968_149_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1968_132_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1968_132/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1967_188_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1967_188/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1967_145/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1967_142_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1967_136_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1967_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1966_155_B_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1966_155_B_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1966_155_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1966_155/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1966_154_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1966_154/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1966_105_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1966_105_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1965_93_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1965_93/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1965_45/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1965_102_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1961_42/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_8_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_8_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_8/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_24_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_24_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_24_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_24/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_172/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_133/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_133_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_Z/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_Q/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_K/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_J/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_D/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_E/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_F/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1960_122_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1958_1_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1958_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1953_57_II/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1953_57_I/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_1953_57/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17511/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17435_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17435/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17435_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17421_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17402_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17402_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17387/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17335_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17335_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17335/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_17333/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_16535/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_16394_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15783_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15766/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15572_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15572_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15572/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15564/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15563_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15552/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15541/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15430_D/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15430_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15430_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15430_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15429_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15429_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_15429_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14617/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14562_O_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14562_O_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14562_O/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14562_E_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14562_E_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14561_W_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14561_W_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14561_W/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14561_I_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14561_I_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14561_I_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BK_14559_M_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/BI_1926_0324B_5/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_VBR_545_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_VBR_545_1_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_VBR_545_1_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_VBR_545_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_TN_2361/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_1963_50/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_1961_91_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_1956_1_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_16309_C/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_16309_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_16309_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15893/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15828/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15796_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15796_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15796/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15329_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15329_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15329_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15329/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15329_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14942_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14942_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14809_A_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14809_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14809_A_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14809_A/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14796_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14796_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14796/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14744/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14743/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14742/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14723/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RAK_2005_1_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RAK_2005_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_RAK_2003_3/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6608/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6566/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6562_3/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6562_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6562_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6549/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6545/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6480/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_6365_B/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_4088/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_2627/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_2611/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_2625_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_2625/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_13891_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_13891_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_13891/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_13713/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_13681/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_13682/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_13267/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_12405/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_NM_11511_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_MAK_814_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_MAK_814_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_MAK_814/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_MAK_633/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_MAK_632/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_MAK_562/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_MAK_1481/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_KOG_313_2/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_KOG_313_1/manifest"
- },
- {
-   "IIIFManifests": "https://iiif.europeana.eu/presentation/90402/AK_KOG_313/manifest"
- }
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1910_1783A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1910_1783/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/NG_NM_13202/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/NG_1991_8_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/NG_1980_27_H_1509/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_VBR_462_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17420_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6833_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6833_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6833_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6833_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6580/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6574/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6573/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6568_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6567/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6561_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/SK_A_3355/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/SK_A_1563/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_2015_46_15/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_2015_41_401/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_2015_32_82/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_1998_70_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_1998_61_63_V_/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_1994_23_9_R_/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_1983_483/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_1976_101_5/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_1969_342_R_/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_1963_21/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_1955_229_35_V_/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_1950_355/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_T_1897_A_3320_37_R_/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_85_021A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_67_425/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_52_394/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_47_105/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_203_110/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_203_109/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_OB_203_108/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_2014_64_15/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_2013_9_11/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_2013_9_12/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_2000_211/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1997_24/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1994_31_80/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1994_31_50/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1991_566/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1991_480/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1964_609/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1964_610/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1964_3882/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1963_620/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1907_4779/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1890_A_15890/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_P_1889_A_14363/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_F_F00835_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/RP_F_00_5412_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/NG_1981_12_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/NG_1979_12/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/HA_0012305/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/HA_0010698/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_I_Z_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_I_Z_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_I_Z_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_6991/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_6570/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_5888_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_5783_91_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_5783_73_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_5783_72_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_5783_23_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_3985/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2692_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2632_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2632_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2632_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_D_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_D/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_B_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_B_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2629_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2620_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2597_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2597_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2597/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2596/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2595_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2595/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2595_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2594_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2566_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_2566_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_14249/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_14238_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_14238_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_14192/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_14181/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_14080_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_14080/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_14080_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_14048/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13929_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13929/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13929_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13862/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13320_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13320_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13200_B_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13200_B_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13200_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13203/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13200_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_13200_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_12556/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_12470_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_12470_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_12470/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_12400_332/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_12400_265/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_12400_211/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_12236/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_11860_119_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_11746/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_319/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_158_D/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_158/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_142/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_142_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_11177_123/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_10971_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_10888/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_NM_10321_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_KOG_318_B_1_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_KOG_318_B_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_KOG_318_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_KOG_1715/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_BR_321/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_BR_314/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_BR_312/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_BR_311_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_2007_8_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_2007_22/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_2003_1_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_2003_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1999_86_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1991_34_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1991_34/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1985_12_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1985_12_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1985_12/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1984_40_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1984_40/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1984_40_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_265_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_257_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_257_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_257_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_253_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_253_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_253_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_223_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_223_B_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_223_B_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_223/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_223_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_201_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_201_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_201_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_198_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_198_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_198_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_196_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_196_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_196_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_174_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_174_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_174_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_161_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1983_10/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1982_58_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1982_64_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1982_58_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1982_58/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1982_3/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1981_5/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1978_3_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_37/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_8/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_9/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_6/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_7/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_5/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_4/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_12/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_3/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_11/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_10/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_E_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_9/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_7/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_8/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_6/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_5/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_4/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_3/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_12/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_11/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_D_10/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_261/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_245_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_245_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_245_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_240/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_240_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_20_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1977_20/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1975_73/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1975_30/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1975_124_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1975_104_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1975_104_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1975_104/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1974_80_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1974_6/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1972_81_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1972_132_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1970_34/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1970_33/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1969_50/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1969_184_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1969_108_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1968_61/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1968_246_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1968_246_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1968_246_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1968_246_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1968_149_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1968_132_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1968_132/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1967_188_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1967_188/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1967_145/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1967_142_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1967_136_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1967_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1966_155_B_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1966_155_B_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1966_155_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1966_155/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1966_154_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1966_154/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1966_105_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1966_105_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1965_93_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1965_93/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1965_45/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1965_102_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1961_42/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_8_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_8_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_8/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_24_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_24_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_24_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_24/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_172/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_133/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_133_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_Z/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_Q/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_K/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_J/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_D/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_E/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_F/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_123_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1960_122_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1958_1_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1958_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1953_57_II/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1953_57_I/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_1953_57/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17511/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17435_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17435/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17435_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17421_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17402_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17402_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17387/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17335_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17335_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17335/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_17333/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_16535/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_16394_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15783_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15766/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15572_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15572_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15572/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15564/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15563_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15552/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15541/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15430_D/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15430_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15430_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15430_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15429_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15429_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_15429_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14617/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14562_O_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14562_O_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14562_O/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14562_E_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14562_E_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14561_W_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14561_W_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14561_W/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14561_I_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14561_I_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14561_I_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BK_14559_M_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/BI_1926_0324B_5/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_VBR_545_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_VBR_545_1_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_VBR_545_1_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_VBR_545_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_TN_2361/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_1963_50/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_1961_91_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_1956_1_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_16309_C/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_16309_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_16309_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15893/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15828/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15796_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15796_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15796/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15329_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15329_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15329_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15329/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_15329_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14942_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14942_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14809_A_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14809_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14809_A_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14809_A/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14796_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14796_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14796/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14744/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14743/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14742/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RBK_14723/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RAK_2005_1_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RAK_2005_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_RAK_2003_3/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6608/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6566/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6562_3/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6562_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6562_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6549/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6545/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6480/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_6365_B/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_4088/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_2627/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_2611/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_2625_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_2625/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_13891_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_13891_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_13891/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_13713/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_13681/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_13682/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_13267/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_12405/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_NM_11511_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_MAK_814_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_MAK_814_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_MAK_814/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_MAK_633/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_MAK_632/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_MAK_562/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_MAK_1481/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_KOG_313_2/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_KOG_313_1/manifest",
+    "type": "Manifest"
+  },
+  {
+    "id": "https://iiif.europeana.eu/presentation/90402/AK_KOG_313/manifest",
+    "type": "Manifest"
+  }
 ]
 }
