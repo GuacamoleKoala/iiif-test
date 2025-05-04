@@ -3,26 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Universal Viewer Test</title>
-    <link rel="stylesheet" href="https://universalviewer.io/examples/uv/lib/uv-3.1.1/uv.css">
+    <title>Universal Viewer with Europeana IIIF Manifest</title>
+
+    <!-- Include the Universal Viewer CSS -->
+    <link rel="stylesheet" href="https://universalviewer.io/dist/uv.css">
+
+    <!-- Include the Universal Viewer JavaScript -->
+    <script src="https://universalviewer.io/dist/uv.js"></script>
 </head>
 <body>
+    <h1>Europeana IIIF Manifest in Universal Viewer</h1>
 
-    <!-- Viewer container -->
-    <div id="uv" style="width: 100%; height: 600px;"></div>
-
-    <!-- Universal Viewer Script -->
-    <script src="https://universalviewer.io/examples/uv/lib/uv-3.1.1/uv.js"></script>
+    <div id="universalViewerContainer" style="height: 600px;"></div>
 
     <script>
+        // The IIIF manifest URL from Europeana
+        var manifestUrl = "https://iiif.europeana.eu/presentation/90402/SK_A_3355/manifest?wskey=reeditaccif"; // Replace with the actual manifest URL from Europeana
+
         // Initialize the Universal Viewer
-        var uv = UV.init('uv', {
-            // You can leave this empty for now
+        var uv = new UV({
+            id: 'universalViewerContainer', // The ID of the div container where the viewer will be embedded
+            manifest: manifestUrl,          // The URL of the IIIF manifest
+            config: {
+                // Optional configuration options for the viewer
+                language: 'en',
+                theme: 'light',  // You can switch between 'light' or 'dark' themes
+                showManifests: true,  // Optionally show a list of available manifests
+                showAnnotations: true, // Optionally show annotations
+            }
         });
 
-        // Load the manifest URL directly
-        uv.load('https://iiif.europeana.eu/presentation/90402/RP_T_2015_46_15/manifest?wskey=reeditaccif');
+        // Load the Universal Viewer
+        uv.load();
     </script>
-
 </body>
 </html>
