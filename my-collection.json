@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://your-username.github.io/my-iiif-data/collection.json",
+  "id": "https://raw.githubusercontent.com/GuacamoleKoala/iiif-test/refs/heads/main/my-collection.json",
   "type": "Collection",
   "label": {
     "en": [
